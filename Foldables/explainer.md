@@ -6,9 +6,9 @@ Authors: [Bogdan Brinza](https://github.com/boggydigital), [Daniel Libby](https:
 This document is intended as a starting point for engaging the community and standards bodies in developing collaborative solutions fit for standardization. As the solutions to problems described in this document progress along the standards-track, we will retain this document as an archive and use this section to keep the community up-to-date with the most current standards venue and content location of future work and discussions.
 * This document status: **Active** (CSS primitives for dual screen layouts)
     * Expected venue: [W3C CSS Working Group](https://www.w3.org/Style/CSS/)
-* This document status: **ARCHIVED** (Window Segments Enumeration JavaScript API)
-    * Current venue: [W3C Second Screen Community Group](https://www.w3.org/community/webscreens/) | [webscreens/window-segments](https://github.com/webscreens/window-segments) | ![GitHub issues](https://img.shields.io/github/issues/webscreens/window-segments)
-    * Current version: [Window Segments Enumeration JavaScript API](https://github.com/webscreens/window-segments/blob/master/EXPLAINER.md)
+* This document status: **ARCHIVED** (Visual Viewport Segments Property)
+    * Current venue: [WICG | Visual Viewport](https://wicg.github.io/visual-viewport/index.html) 
+    * Current version: [Visual Viewport | Segments Property](https://github.com/WICG/visual-viewport/blob/gh-pages/segments-explainer/SEGMENTS-EXPLAINER.md
 
 ### Table of content
 - [Motivation](#motivation)
@@ -106,6 +106,7 @@ The proposed CSS constructs are not currently meant to map to spanning configura
 ## Proposal: Window Segments Enumeration JavaScript API 
 
 - Feb 26, 2020: 🚚📦 Window Segments Enumeration JavaScript API has now moved to the [W3C Second Screen Community Group](https://www.w3.org/community/webscreens/). For the explainer, issues, and comments please refer to the [webscreens/window-segments](https://github.com/webscreens/window-segments) GitHub repo.
+- Oct 1, 2021: The Window Segments Enumeration JavaScript API has been deprecated in favor of the Visual Viewport segments property. Refer to the [Visual Viewport](https://github.com/WICG/visual-viewport/blob/gh-pages/segments-explainer/SEGMENTS-EXPLAINER.md) GitHub repo for the segments explainer.
 
 ## Security and Privacy
 
