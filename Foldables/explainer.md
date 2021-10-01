@@ -8,7 +8,7 @@ This document is intended as a starting point for engaging the community and sta
     * Expected venue: [W3C CSS Working Group](https://www.w3.org/Style/CSS/)
 * This document status: **ARCHIVED** (Visual Viewport Segments Property)
     * Current venue: [WICG | Visual Viewport](https://wicg.github.io/visual-viewport/index.html) 
-    * Current version: [Visual Viewport | Segments Property](https://github.com/WICG/visual-viewport/blob/gh-pages/segments-explainer/SEGMENTS-EXPLAINER.md
+    * Current version: [Visual Viewport | Segments Property](https://github.com/WICG/visual-viewport/blob/gh-pages/segments-explainer/SEGMENTS-EXPLAINER.md)
 
 ### Table of content
 - [Motivation](#motivation)
